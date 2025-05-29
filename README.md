@@ -104,5 +104,5 @@ npm run start
 
 This project is for educational and personal use. Be mindful of GitHub's API rate limits.
 ```
-will be adding and bringing forth more updates to this app
+will be adding and bringing forth more updates to this app and bringing forth the final version that would be coming along with the apk file
 ```
