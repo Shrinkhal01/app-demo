@@ -20,7 +20,6 @@ GitFollow is a Next.js web application that allows you to analyze your GitHub fo
 *   **Frontend**: Next.js (React), TypeScript, Tailwind CSS, shadcn/ui
 *   **Backend**: Next.js Server Actions
 *   **API**: GitHub REST API v3
-
 ## Prerequisites
 
 *   Node.js (>=18.x recommended)
